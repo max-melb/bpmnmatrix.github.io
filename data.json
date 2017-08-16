@@ -13,7 +13,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "Executable";
+	"Categories": "Executable",
         "First Release": "2005",
         "Latest Release": "2014",
         "License": {
@@ -37,7 +37,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "Executable";
+	"Categories": "Executable",
         "First Release": "2010-05-17",
         "Latest Release": "2014-12-18",
         "License": {
@@ -61,7 +61,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "Modelling";
+	"Categories": "Modelling",
         "First Release": "1995",
         "Latest Release": "2012",
         "License": {
@@ -85,7 +85,7 @@
             "Unix": true
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "",
         "Latest Release": "2016-09-19",
         "License": {
@@ -109,7 +109,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2003-10",
         "Latest Release": "2013-09",
         "License": {
@@ -133,7 +133,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 1.1, 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2005",
         "Latest Release": "2013-06-12",
         "License": {
@@ -157,7 +157,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2005",
         "Latest Release": "2014",
         "License": {
@@ -181,7 +181,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "Modelling";
+	"Categories": "Modelling",
         "First Release": "2009-07-28",
         "Latest Release": "2012-12-19",
         "License": {
@@ -205,7 +205,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "Executable";
+	"Categories": "Executable",
         "First Release": "2001",
         "Latest Release": "2016",
         "License": {
@@ -229,7 +229,7 @@
             "Unix": true
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2016-02-01",
         "Latest Release": "2016-04-11",
         "License": {
@@ -253,7 +253,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "Modelling, executable";
+	"Categories": "Modelling, executable",
         "First Release": "",
         "Latest Release": "",
         "License": {
@@ -277,7 +277,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "Modelling, simulation";
+	"Categories": "Modelling, simulation",
         "First Release": "",
         "Latest Release": "",
         "License": {
@@ -301,7 +301,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2012",
         "Latest Release": "2014",
         "License": {
@@ -325,7 +325,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "Executable";
+	"Categories": "Executable",
         "First Release": "2001",
         "Latest Release": "2017-06-20",
         "License": {
@@ -349,7 +349,7 @@
             "Unix": false
         },
         "BPMN Version": "",
-	"Categories": "";
+	"Categories": "",
         "First Release": "",
         "Latest Release": "2009-07-04",
         "License": {
@@ -373,7 +373,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "Mapping";
+	"Categories": "Mapping",
         "First Release": "2010",
         "Latest Release": "Bi-yearly",
         "License": {
@@ -397,7 +397,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "Modelling, simulation (TBC)";
+	"Categories": "Modelling, simulation (TBC)",
         "First Release": "2012",
         "Latest Release": "Bi-monthly",
         "License": {
@@ -421,7 +421,7 @@
             "Unix": true
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2014-02",
         "Latest Release": "2016-07-29",
         "License": {
@@ -445,7 +445,7 @@
             "Unix": true
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "Mapping";
+	"Categories": "Mapping",
         "First Release": "2016-01",
         "Latest Release": "2017-07",
         "License": {
@@ -469,7 +469,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "Modelling, executable";
+	"Categories": "Modelling, executable",
         "First Release": "2013",
         "Latest Release": "2016-11-30",
         "License": {
@@ -493,7 +493,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2012-05",
         "Latest Release": "2013-08",
         "License": {
@@ -517,7 +517,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2003",
         "Latest Release": "2013-08",
         "License": {
@@ -541,7 +541,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "Executable";
+	"Categories": "Executable",
         "First Release": "2011",
         "Latest Release": "2014",
         "License": {
@@ -565,7 +565,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "Modelling";
+	"Categories": "Modelling",
         "First Release": "2000",
         "Latest Release": "2015-01",
         "License": {
@@ -589,7 +589,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "",
         "Latest Release": "2012-03",
         "License": {
@@ -613,7 +613,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2015",
         "Latest Release": "March 2015",
         "License": {
@@ -637,7 +637,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2015-10-15",
         "Latest Release": "2016-7-25",
         "License": {
@@ -661,7 +661,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2000",
         "Latest Release": "2013",
         "License": {
@@ -685,7 +685,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "",
         "Latest Release": "",
         "License": {
@@ -709,7 +709,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0+",
-	"Categories": "";
+	"Categories": "",
         "First Release": "",
         "Latest Release": "",
         "License": {
@@ -733,7 +733,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0+",
-	"Categories": "";
+	"Categories": "",
         "First Release": "",
         "Latest Release": "2014-09",
         "License": {
@@ -757,7 +757,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "1988",
         "Latest Release": "2012",
         "License": {
@@ -781,7 +781,7 @@
             "Unix": true
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2006",
         "Latest Release": "2017",
         "License": {
@@ -805,7 +805,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2010",
         "Latest Release": "2012",
         "License": {
@@ -829,7 +829,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2013",
         "Latest Release": "2013-14",
         "License": {
@@ -853,7 +853,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "Executable";
+	"Categories": "Executable",
         "First Release": "",
         "Latest Release": "2014-08-02",
         "License": {
@@ -877,7 +877,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2013",
         "Latest Release": "2014",
         "License": {
@@ -901,7 +901,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2013-12-16",
         "Latest Release": "2014-04-03",
         "License": {
@@ -925,7 +925,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "Mapping";
+	"Categories": "Mapping",
         "First Release": "2011",
         "Latest Release": "twice a month",
         "License": {
@@ -949,7 +949,7 @@
             "Unix": true
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "Mapping";
+	"Categories": "Mapping",
         "First Release": "2007-09-24",
         "Latest Release": "2014-06-02",
         "License": {
@@ -973,7 +973,7 @@
             "Unix": false
         },
         "BPMN Version": "",
-	"Categories": "Mapping";
+	"Categories": "Mapping",
         "First Release": "",
         "Latest Release": "2013",
         "License": {
@@ -997,7 +997,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "1.1.0",
         "Latest Release": "1.1.3",
         "License": {
@@ -1021,7 +1021,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2009",
         "Latest Release": "2014-10-01",
         "License": {
@@ -1045,7 +1045,7 @@
             "Unix": false
         },
         "BPMN Version": "",
-	"Categories": "";
+	"Categories": "",
         "First Release": "",
         "Latest Release": "2010",
         "License": {
@@ -1069,7 +1069,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "Executable";
+	"Categories": "Executable",
         "First Release": "1991",
         "Latest Release": "2014",
         "License": {
@@ -1093,7 +1093,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "Mapping";
+	"Categories": "Mapping",
         "First Release": "2003",
         "Latest Release": "2014-09-18",
         "License": {
@@ -1117,7 +1117,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0, 1.2",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2003",
         "Latest Release": "2015-03",
         "License": {
@@ -1141,7 +1141,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "",
         "Latest Release": "2012-05-10",
         "License": {
@@ -1165,7 +1165,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2002-01",
         "Latest Release": "2014-01",
         "License": {
@@ -1189,7 +1189,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2007",
         "Latest Release": "2013",
         "License": {
@@ -1213,7 +1213,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2004",
         "Latest Release": "2014-08-01",
         "License": {
@@ -1237,7 +1237,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2001",
         "Latest Release": "2014-05",
         "License": {
@@ -1261,7 +1261,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "Modelling, simulation";
+	"Categories": "Modelling, simulation",
         "First Release": "2009",
         "Latest Release": "updated monthly",
         "License": {
@@ -1285,7 +1285,7 @@
             "Unix": true
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2014-09",
         "Latest Release": "2016-05",
         "License": {
@@ -1309,7 +1309,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2009-08",
         "Latest Release": "2014-02",
         "License": {
@@ -1333,7 +1333,7 @@
             "Unix": false
         },
         "BPMN Version": "",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2002",
         "Latest Release": "2014-03",
         "License": {
@@ -1357,7 +1357,7 @@
             "Unix": false
         },
         "BPMN Version": "",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2012-07",
         "Latest Release": "2012-07",
         "License": {
@@ -1381,7 +1381,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "Executable";
+	"Categories": "Executable",
         "First Release": "2010-05",
         "Latest Release": "2013-02",
         "License": {
@@ -1405,7 +1405,7 @@
             "Unix": false
         },
         "BPMN Version": "",
-	"Categories": "";
+	"Categories": "",
         "First Release": "",
         "Latest Release": "2014-09",
         "License": {
@@ -1429,7 +1429,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2007",
         "Latest Release": "2013",
         "License": {
@@ -1453,7 +1453,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "Modelling";
+	"Categories": "Modelling",
         "First Release": "",
         "Latest Release": "",
         "License": {
@@ -1477,7 +1477,7 @@
             "Unix": true
         },
         "BPMN Version": "BPMN2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2014-01",
         "Latest Release": "2014-01",
         "License": {
@@ -1501,7 +1501,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "Modelling";
+	"Categories": "Modelling",
         "First Release": "2010-05-27",
         "Latest Release": "2016-12-24",
         "License": {
@@ -1525,7 +1525,7 @@
             "Unix": true
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "",
         "Latest Release": "2016-07-15",
         "License": {
@@ -1549,7 +1549,7 @@
             "Unix": false
         },
         "BPMN Version": "BPMN 2.0",
-	"Categories": "";
+	"Categories": "",
         "First Release": "2016-07-25",
         "Latest Release": "2016-07-25",
         "License": {
